@@ -145,48 +145,35 @@ profile:
   career: 石家庄铁道大学 | 数字媒体技术
   introduction: 慎思明辨 知行合一 
 
-# 在“关于”页面配置"我的项目"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
+# 在“关于”页面配置"我的项目"信息
 myProjects:
   enable: false
   data:
-    hexo-theme-matery:
+    project1:
       icon: fa-meetup
       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
-      url: http://github.com/blinkfox/hexo-theme-matery
-      desc: This is a Hexo blog theme with 'Material Design' and responsive design.
-    zealt:
+      url: http://github.com/qinnian
+      desc: 描述
+    project1:
         icon: fa-database
         iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
-        url: https://github.com/blinkfox/zealot
-        desc: 一个轻量级的SQL和参数动态生成工具库
-    typora-vue-theme:
-        icon: fa-file-text-o
-        iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
-        url: https://github.com/blinkfox/typora-vue-theme
-        desc: This is a typora theme inspired by Vue document style.
+        url: https://github.com/qinnian
+        desc: 描述
 
-# 在“关于”页面配置"我的技能"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
+# 在“关于”页面配置"我的技能"信息
 mySkills:
   enable: false
   data:
-    Java:
-      background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
-      percent: 85%
     JavaScript:
       background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
-      percent: 80%
+      percent: 40%
     HTML5:
       background: 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)'
-      percent: 80%
+      percent: 40%
     CSS:
       background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
-      percent: 70%
-    SQL:
-      background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
-      percent: 90%
-    程序设计:
-      background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
-      percent: 75%
+      percent: 40%
+
 
 # 在“关于”页面配置"我的相册"图片，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 myGallery:
@@ -205,8 +192,8 @@ gitalk:
   owner: qinnian             #  GitHub repository 所有者，可以是个人或者组织
   repo: qinnian.github.io    #  GitHub repository.
   oauth: 
-    clientId: f05530e6fada6d7f22ce
-    clientSecret: 4a5cd66aa79526d72befba49ca77bf109d41f541
+    clientId: XXXXXXXXX
+    clientSecret: XXXXXXXXXXX
   admin: qinnian   
 
 # Gitment 评论模块的配置，默认为不激活
@@ -267,7 +254,7 @@ googleAnalytics:
 # 使用到的前端库，可按需替换成对应的CDN地址，如果下面未指定具体的版本号，使用最新的版本即可.
 libs:
   css:
-    valine: /libs/valine/Valine.min.js # 1.3.10  若想保持最新版，请替换为 //unpkg.com/valine/dist/Valine.min.js  默认为 /libs/valine/Valine.min.js
+    valine: /libs/valine/Valine.min.js # 1.3.10  
     fontAwesome: /libs/awesome/css/font-awesome.min.css # V4.7.0
     materialize: /libs/materialize/materialize.min.css # 1.0.0
     aos: /libs/aos/aos.css
@@ -344,8 +331,3 @@ featureImages:
 reprint:
   enable: true               #  是否启用“转载规则限定模块”
   default: cc_by
-
-# Tidio online contact 
-tidio:
-  enable: true
-  public_key: whot3cjyphfog671utbbutpijw04dnm4

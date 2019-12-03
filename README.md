@@ -4,7 +4,7 @@
 
 Blog 是一种传播个人思想，带有知识集合链接的出版方式。
 
-![写博客的重要性](https://ae01.alicdn.com/kf/Hea1d8cf4b9ec4fda91b892efee8570ad4.jpg)
+![写博客的重要性](https://ae01.alicdn.com/kf/H649e1bfa684f4b6e99c1ea3de93e54ff1.png)
 
 个人博客可以简单分为两种：
 
@@ -118,8 +118,6 @@ Blog 是一种传播个人思想，带有知识集合链接的出版方式。
     
     >基于 `nodejs` 的静态博客网站生成器
 
-- `Material Design` 和响应式设计的 `Hexo` 博客主题
-
 ### 6、网页设计工具
 
 - [Font Awesome](https://fontawesome.com/?from=io) 
@@ -133,7 +131,7 @@ Blog 是一种传播个人思想，带有知识集合链接的出版方式。
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) 
     >数字图像处理，网站`logo`、`favicon`、`图片` 的设计
 
-- [定制天气插件](https://cj.weather.com.cn/plugin/pc)
+- [天气插件](https://cj.weather.com.cn/plugin/pc)
 
 ### 7、网站测速工具
 
@@ -155,9 +153,11 @@ Blog 是一种传播个人思想，带有知识集合链接的出版方式。
 
 ![基本功能结构图](https://ae01.alicdn.com/kf/Hfc6c113a6ce84a64bfcd4570c2e0f22ak.png)
 
-- Gitalk评论模块
+- 添加 `Gitalk` 评论模块
 
 - 添加博客天气插件
+
+- 右上角添加 `GitHub主页`
 
 ### 2、色彩设计图
 
