@@ -59,6 +59,8 @@ Blog 是一种传播个人思想，带有知识集合链接的出版方式。
 周龙海|信息|信1705-2
 张佳琪|经管|经1802-2
 
+联系方式
+
 - QQ：352807388
 
 - 微信：LXW5211314666666
@@ -87,6 +89,14 @@ Blog 是一种传播个人思想，带有知识集合链接的出版方式。
 - [GitHub](https://github.com) 
     
     >`Hexo` 部署到 `Github Pages`，用于替代 `付费的云服务器`
+
+- [腾讯云开发者平台](https://dev.tencent.com/production)
+
+    > 为实现 github 和 coding 双部署
+
+- [腾讯云](https://cloud.tencent.com/?fromSource=gwzcw.2212127.2212127.2212127&utm_medium=cpd&utm_id=gwzcw.2212127.2212127.2212127)
+
+    >购买域名、SSL证书等服务
 
 ### 2、任务批处理工具
 
@@ -129,7 +139,13 @@ Blog 是一种传播个人思想，带有知识集合链接的出版方式。
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) 
     >数字图像处理，网站`logo`、`favicon`、`图片` 的设计
 
+- [Flash](https://www.adobe.com/products/flashplayer.html)
+
+    >制作图片懒加载 `loading` 效果图，导入素材，导出 `Gif`
+
 - [天气插件](https://cj.weather.com.cn/plugin/pc)
+
+    >直接获取代码
 
 ### 7、网站测速工具
 
@@ -147,7 +163,7 @@ Blog 是一种传播个人思想，带有知识集合链接的出版方式。
 
 ## 五、总体设计
 
-具体`搭建、配置、优化`记录过程，请参照我的的博客（还在整理中）:[GitHub + Hexo 博客搭建教程](https://qinnian.xyz/Hexo+GitHub%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B.html)
+具体 `搭建`、`配置`、`优化` 可参考我的博客 [博客搭建教程](https://qinnian.xyz/2019/10/20/Hexo+GitHub%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/)
 
 ### 1、功能结构图
 
