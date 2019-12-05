@@ -100,12 +100,12 @@ deploy:                 #部署部分的设置
   branch: master
 #-type: baidu_url_submitter
 
-# baidu subumit
+# baidu subumit   我的百度SEO还没有弄好，emmm
 #baidu_url_submit:
   #count: 80             # 提交最新的一个链接
-  #host: www.qinnian.xyz # 在百度站长平台中注册的域名
-  #token: HnOopMO8BLdUmEzV # 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!
-  #path: baidu_urls.txt  # 文本文档的地址， 新链接会保存在此文本文档里
+  #host: www.qinnian.xyz # 在百度站XXXXXXXX长平台中注册的域名
+  #token: XXXXXXXX      # 请注意这是您的秘钥
+  #path: XXXXXX  # 文本文档的地址， 新链接会保存在此文本文档里
 
 # 内容搜索  npm install hexo-generator-search --save
 
